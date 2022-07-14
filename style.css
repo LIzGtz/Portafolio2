@@ -47,7 +47,7 @@ img {
     color: #a9a9a9;
     text-decoration: none;
     transition: all .3s ease-in-out;
-
+    padding-left: 1.5rem;
 }
 
 .hero_navbar nav a:hover {
