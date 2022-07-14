@@ -101,9 +101,10 @@ img {
 }
 
 .hero_social i {
-    font-size: 38px;
+    font-size: 6rem;
     column-rule-color: #a9a9a9;
     transition: all .3s aese-in-out;
+    color: rgb(105, 34, 172);
 }
 
 .hero_social i:hover {
