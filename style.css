@@ -138,7 +138,7 @@ img {
 
 .skills_container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: auto auto;
     grid-template-rows: 200px 200px;
 }
 
@@ -147,7 +147,7 @@ img {
 .skill_item {
     display: flex;
     flex-direction: column;
-    align-content: center;
+    align-items: center;
     gap: 1rem;
 }
 
